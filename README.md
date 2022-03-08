@@ -12,3 +12,5 @@
 https://api.codiga.io/project/31730/score/svg
 
 https://api.codiga.io/project/31730/status/svg
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/94528b436d154011a81f1cee8984ee7c)](https://www.codacy.com/gh/ShirshaG23/M2-EmbSys/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShirshaG23/M2-EmbSys&amp;utm_campaign=Badge_Grade)
