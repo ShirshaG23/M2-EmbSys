@@ -4,3 +4,5 @@
 [![Build-Linux](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Build.yml/badge.svg)](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Build.yml)
 
 [![Valgrind](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Val.yml/badge.svg)](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Val.yml)
+
+[![Unit Testing](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Unit.yml)
