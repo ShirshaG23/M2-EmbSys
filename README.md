@@ -6,3 +6,5 @@
 [![Valgrind](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Val.yml/badge.svg)](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Val.yml)
 
 [![Unit Testing](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Unit.yml)
+
+[![CI](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Main.yml/badge.svg)](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Main.yml)
