@@ -18,7 +18,7 @@
 
 	
 
-	|ID |Description |
+	|ID|Description |
         |--|-------------|
         |01|Ultrasonic Sensor should sense the change in distance|
 	|02|LED should glow|
@@ -30,7 +30,7 @@
 
 	
 
-	|ID |Description |
+	|ID|Description |
 	|--|-------------|
 	|01|LED should glow when 5V is applied|
 	|02|Potentiometer should regulate the voltage properly.|
