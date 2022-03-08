@@ -8,3 +8,7 @@
 [![Unit Testing](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Unit.yml/badge.svg)](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Unit.yml)
 
 [![CI](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Main.yml/badge.svg)](https://github.com/ShirshaG23/M2-EmbSys/actions/workflows/Main.yml)
+
+https://api.codiga.io/project/31730/score/svg
+
+https://api.codiga.io/project/31730/status/svg
