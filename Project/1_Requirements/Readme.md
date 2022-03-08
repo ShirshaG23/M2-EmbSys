@@ -10,29 +10,29 @@
 
 	
 
-	## Requirements
+## Requirements
 
 	
 
-	## HIGH LEVEL REQUIREMENTS
+## HIGH LEVEL REQUIREMENTS
 
 	
 
-	|ID|Description |
-        |--|-------------|
-        |01|Ultrasonic Sensor should sense the change in distance|
-	|02|LED should glow|
-	|03|Potentiometer should regulate the voltage|
+|ID|Description|
+|--|-----------|
+|01|Ultrasonic Sensor should sense the change in distance|
+|02|LED should glow|
+|03|Potentiometer should regulate the voltage|
 
 	
 
-	## LOW LEVEL REQUIREMENTS
+## LOW LEVEL REQUIREMENTS
 
 	
 
-	|ID|Description |
-	|--|-------------|
-	|01|LED should glow when 5V is applied|
-	|02|Potentiometer should regulate the voltage properly.|
-	|03|Connections should be made accurately.|
+|ID|Description|
+|--|-----------|
+|01|LED should glow when 5V is applied|
+|02|Potentiometer should regulate the voltage properly.|
+|03|Connections should be made accurately.|
 
