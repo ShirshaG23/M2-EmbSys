@@ -15,4 +15,4 @@
 |--|-------------|------|------|---|
 |01|Display|Shows too far if distance >15 cm|Too far|Yes|
 |02|Display|Shows too near if distance <10cm|Too near|Yes|
-|03|Potentiometer Regulation|Regulate the voltage flow|Yes|
+|03|Potentiometer Regulation|Regulate the voltage flow|Varies Voltage|Yes|
